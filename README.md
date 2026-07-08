@@ -51,22 +51,13 @@ I enjoy understanding how complex systems work and transforming them into experi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=s-hivangi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true" alt="Shivangi Pradhan stats"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=s-hivangi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 
 </div>
 
-### Contribution Snake
+###
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s-hivangi/s-hivangi/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/s-hivangi/s-hivangi/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> Requires GitHub Actions setup
+> 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cobalt)
 
@@ -74,8 +65,3 @@ I enjoy understanding how complex systems work and transforming them into experi
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/s-hivangi">github.com/s-hivangi</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,100:8e54e9&height=120&section=footer" width="100%" alt="Footer wave"/>
-
-</div>
