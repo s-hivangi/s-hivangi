@@ -7,8 +7,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366f1&center=true&vCenter=true&width=640&lines=Collecting%20experiences%2C%20not%20just%20achievements;Leave%20things%20better%20than%20you%20found%20them;Every%20blank%20page%20holds%20a%20possibility)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangipradhan97/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:07shhivangisp@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=s-hivangi&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views"/>
 
-![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-6366f1?style=flat-square) [![Building -&gt; AI Financial Dashboard](https://img.shields.io/badge/Building%20-%3E%20AI%20Financial%20Dashboard-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/s-hivangi/where_is_my_money_going-)
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-6366f1?style=flat-square)
+[![Resume](https://img.shields.io/badge/Resume-6366f1?style=flat-square&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1_9Q_96_c4RcLWiJG_g1RHsosuaqdnFMe/view?usp=sharing)
+
+
 
 </div>
 
