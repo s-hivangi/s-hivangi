@@ -47,10 +47,6 @@ I enjoy understanding how complex systems work and transforming them into experi
 
 <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="AI / ML"/>
 
-### Languages
-- 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
-- 🌐 **Hindi** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
-
 ### GitHub Stats
 
 <div align="center">
