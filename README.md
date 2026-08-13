@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,100:8e54e9&height=240&section=header&text=Shivangi%20Pradhan&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Learner&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Shivangi Pradhan banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,100:8e54e9&height=240&section=header&text=Shivangi%20Pradhan&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Exploring&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Shivangi Pradhan banner"/>
 </div>
 
 <div align="center">
@@ -16,52 +16,63 @@
 
 </div>
 
-### About
+### 👩🏻‍💻 About Me
 
-I enjoy understanding how complex systems work and transforming them into experiences that feel simple, intuitive, and dependable. I believe the smallest details often leave the biggest impression, which is why I enjoy refining products until they feel just right. Outside of tech, I enjoy writing, observing the world around me, and collecting ideas that eventually find their way into something I create.
+I'm a final-year Computer Engineering student at the University of Mumbai interested in **software engineering and system architecture**.
+I enjoy taking a complicated problem, breaking it into smaller systems, and figuring out how the pieces can work together. My projects often sit somewhere between **full-stack development, intelligent systems, data, and user experience**.
+
+Beyond code, I enjoy research, writing, documenting ideas, designing presentations, and turning observations into things I can build.
 
 - ⌖ **Location** · Mumbai, India
 - ◎ **Education** · University of Mumbai
-- ⟳ **Learning** · System Design, AI/ML Systems, Backend Development
-- ✦ **Fun fact** · I'm left handed
+- ⟳ **Currently Exploring** · Large-scale data processing, distributed systems, and AI/ML architectures.
+- **Outside tech:** Writing, observing, collecting ideas
+- ✦ **Fun fact** · I'm left-handed!
 
-### Stack
+### 📚 Public Learning Log
 
-**Languages**
+*What I've been experimenting with recently:*
+* Structuring analytical reports and architectural diagrams for academic experiments.
+* Exploring distributed-system architecture and communication patterns
+* Studying how AI applications can be designed as reliable end-to-end systems
+* Experimenting with database performance and application response times
+* Improving technical documentation and architecture diagrams
 
-<img src="https://skillicons.dev/icons?i=python,ts,java,js&theme=dark" alt="Languages"/>
+### 🛠️ Tech Stack
+
+**Languages & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=python,ts,java,js,postgres&theme=dark" alt="Languages and Databases"/>
 
 **Frontend**
-
+<br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
 
-**Backend & Databases**
+**Backend & Architecture**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask,prisma,firebase,supabase&theme=dark" alt="Backend"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,nodejs,express,flask,prisma,firebase,supabase&theme=dark" alt="Backend & Databases"/>
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,git,vercel,figma,opencv&theme=dark" alt="DevOps, Cloud, and AI"/>
 
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=jupyter,vscode,git,vercel,figma&theme=dark" alt="DevOps & Cloud"/>
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="AI / ML"/>
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=s-hivangi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-
-</div>
+---
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s-hivangi/s-hivangi/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s-hivangi/s-hivangi/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/s-hivangi/s-hivangi/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
 
 ###
 
-> 
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cobalt)
-
----
 
 <div align="center">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
 
+<div align="center">
+  <i>Feel free to explore my projects, or reach out via email if you'd like to collaborate!</i>
+</div>
+
+<div align="center">
